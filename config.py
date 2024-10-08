@@ -1,7 +1,7 @@
 import os
 
 # Pyrogram API credentials
-API_ID = int(os.environ.get("9972455"))
+API_ID = int(os.environ.get( 9972455 ))
 API_HASH = os.environ.get("5b1fd83b698e4e6670f3dcb053eecc06")
 
 # Bot token
