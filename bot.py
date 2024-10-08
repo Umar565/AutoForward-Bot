@@ -1,5 +1,6 @@
 import logging
 import os
+import psutil
 import telegram
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.constants import ParseMode
